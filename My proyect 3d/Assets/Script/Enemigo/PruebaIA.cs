@@ -1,0 +1,19 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;using UnityEngine.AI;
+
+public class PruebaIA : MonoBehaviour{[SerializeField] private Transform objetivo;
+
+    private NavMeshAgent navMeshAgent;
+
+
+    // Start is called before the first frame update
+    void Start(){
+                navMeshAgent = GetComponent<NavMeshAgent>();
+
+    }// Update is called once per framevoid 
+    void Update(){
+                navMeshAgent.SetDestination(objetivo.position);
+
+    }
+}
