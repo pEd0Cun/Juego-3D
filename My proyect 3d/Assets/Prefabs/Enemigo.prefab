@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 7295507463320512519}
   - component: {fileID: 2527045913394009094}
   - component: {fileID: 6442444201903595598}
+  - component: {fileID: 2285275867970131211}
   m_Layer: 0
   m_Name: Enemigo
   m_TagString: Untagged
@@ -30,14 +31,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1125967599585850789}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.54, y: 1.1, z: 0.5049221}
+  m_LocalRotation: {x: -0, y: 0.49030942, z: -0, w: 0.87154853}
+  m_LocalPosition: {x: 0.54, y: 1.006, z: 0.53}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1308756299258522815}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 58.722, z: 0}
 --- !u!33 &593159942551231404
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -139,7 +140,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1125967599585850789}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dc34ae35a8d13d9479fbc17bc232965a, type: 3}
   m_Name: 
@@ -167,6 +168,22 @@ NavMeshAgent:
   m_BaseOffset: 1
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &2285275867970131211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1125967599585850789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ba5e6f9692033740832e530444982c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetivo: {fileID: 0}
+  rangoDeteccion: 5
+  velVoltearAVer: 5
+  tiempoAgresion: 5
 --- !u!1 &6743181687449717634
 GameObject:
   m_ObjectHideFlags: 0

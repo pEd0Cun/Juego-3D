@@ -890,6 +890,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2285275867970131211, guid: f3e9029b1d1e65141b1bb45bc09d7415,
+        type: 3}
+      propertyPath: objetivo
+      value: 
+      objectReference: {fileID: 590785922}
     - target: {fileID: 2527045913394009094, guid: f3e9029b1d1e65141b1bb45bc09d7415,
         type: 3}
       propertyPath: objetivo
