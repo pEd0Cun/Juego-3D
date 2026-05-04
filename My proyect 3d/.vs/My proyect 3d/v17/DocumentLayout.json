@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EnemigoME.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Enemigo\\EnemigoME.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoReposo.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Enemigo\\EstadoReposo.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoPerserguir.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Enemigo\\EstadoPerserguir.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoAtacar.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Enemigo\\EstadoAtacar.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoBase.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Enemigo\\EstadoBase.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EnemigoME.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Enemigo\\EnemigoME.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\MaquinaEstado.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Enemigo\\MaquinaEstado.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\SaludPantalla.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Salud\\SaludPantalla.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\PruebaIA.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\PruebaIA.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\Salud1.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Salud\\Salud1.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,91 +30,55 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EstadoAtacar.cs",
-              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoAtacar.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Enemigo\\EstadoAtacar.cs",
-              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoAtacar.cs",
-              "RelativeToolTip": "Assets\\Script\\Enemigo\\EstadoAtacar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:50:41.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EstadoPerserguir.cs",
-              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoPerserguir.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Enemigo\\EstadoPerserguir.cs",
-              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoPerserguir.cs",
-              "RelativeToolTip": "Assets\\Script\\Enemigo\\EstadoPerserguir.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Title": "SaludPantalla.cs",
+              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\SaludPantalla.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Salud\\SaludPantalla.cs",
+              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\SaludPantalla.cs",
+              "RelativeToolTip": "Assets\\Script\\Salud\\SaludPantalla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:49:58.712Z",
+              "WhenOpened": "2026-05-04T05:07:06.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EstadoReposo.cs",
-              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoReposo.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Enemigo\\EstadoReposo.cs",
-              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoReposo.cs",
-              "RelativeToolTip": "Assets\\Script\\Enemigo\\EstadoReposo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:35:50.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "EnemigoME.cs",
               "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EnemigoME.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemigo\\EnemigoME.cs",
               "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EnemigoME.cs",
               "RelativeToolTip": "Assets\\Script\\Enemigo\\EnemigoME.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:34:56.136Z",
+              "WhenOpened": "2026-05-04T04:53:12.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EstadoBase.cs",
-              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoBase.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Enemigo\\EstadoBase.cs",
-              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoBase.cs",
-              "RelativeToolTip": "Assets\\Script\\Enemigo\\EstadoBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Salud1.cs",
+              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\Salud1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Salud\\Salud1.cs",
+              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\Salud1.cs",
+              "RelativeToolTip": "Assets\\Script\\Salud\\Salud1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:34:27.076Z"
+              "WhenOpened": "2026-05-04T04:44:36.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MaquinaEstado.cs",
-              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\MaquinaEstado.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Enemigo\\MaquinaEstado.cs",
-              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\MaquinaEstado.cs",
-              "RelativeToolTip": "Assets\\Script\\Enemigo\\MaquinaEstado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EstadoAtacar.cs",
+              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoAtacar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemigo\\EstadoAtacar.cs",
+              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoAtacar.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemigo\\EstadoAtacar.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:34:02.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PruebaIA.cs",
-              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\PruebaIA.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PruebaIA.cs",
-              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\PruebaIA.cs",
-              "RelativeToolTip": "Assets\\Script\\PruebaIA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:06:55.895Z"
+              "WhenOpened": "2026-05-04T04:43:07.929Z",
+              "EditorCaption": ""
             }
           ]
         }
