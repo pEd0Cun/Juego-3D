@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\MaterialReferenceManager.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\MaterialReferenceManager.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoAtacar.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Enemigo\\EstadoAtacar.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Salud.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EnemigoME.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Enemigo\\EnemigoME.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\SaludPantalla.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Salud\\SaludPantalla.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\Salud1.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Salud\\Salud1.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MaterialReferenceManager.cs",
-              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\MaterialReferenceManager.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\MaterialReferenceManager.cs",
-              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\MaterialReferenceManager.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\MaterialReferenceManager.cs",
-              "ViewState": "AgIAAIgBAAAAAAAAAADgvwwCAABzAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SaludPantalla.cs",
+              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\SaludPantalla.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Salud\\SaludPantalla.cs",
+              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\SaludPantalla.cs",
+              "RelativeToolTip": "Assets\\Script\\Salud\\SaludPantalla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T04:35:59.913Z",
+              "WhenOpened": "2026-05-04T05:07:06.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Salud.cs",
-              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Salud.cs",
-              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud.cs",
-              "RelativeToolTip": "Assets\\Script\\Salud.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Title": "EnemigoME.cs",
+              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EnemigoME.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemigo\\EnemigoME.cs",
+              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EnemigoME.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemigo\\EnemigoME.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T04:25:25.497Z",
+              "WhenOpened": "2026-05-04T04:53:12.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Salud1.cs",
+              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\Salud1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Salud\\Salud1.cs",
+              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Salud\\Salud1.cs",
+              "RelativeToolTip": "Assets\\Script\\Salud\\Salud1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:44:36.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstadoAtacar.cs",
+              "DocumentMoniker": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoAtacar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemigo\\EstadoAtacar.cs",
+              "ToolTip": "E:\\Noveno semestre\\Desarrollo de videojuegos\\Juego 3d\\My proyect 3d\\Assets\\Script\\Enemigo\\EstadoAtacar.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemigo\\EstadoAtacar.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:43:07.929Z",
               "EditorCaption": ""
             }
           ]
